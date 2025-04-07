@@ -44,7 +44,17 @@ Data-backed suggestions for operational optimization.
 
 Support for strategic decisions based on real trends and metrics.
 
+# 🚀 How to Use
+Clone the repository.
 
+Set up the environment and run the ETL pipeline.
+
+Launch the dashboard (or open the published link).
+
+Explore insights and take informed action!
+
+3 🤝 Contributions
+Open to suggestions, feedback, and contributions. Let’s optimize business using the power of data!
 
 
 
