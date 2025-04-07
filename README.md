@@ -13,7 +13,7 @@ This project delivers powerful, data-driven insights into the performance of Atl
 🏢 About Atliq Hardwares
 Atliq Hardwares has been in operation for several years, but like many manufacturing organizations, it has faced periods of irregularity and performance depreciation. This dashboard is designed to help the company understand its business metrics more clearly, identify inefficiencies, and uncover opportunities for optimization.
 
-📌 Project Objective
+# 📌 Project Objective
 The goal of this project is to:
 
 Provide a comprehensive view of Atliq's business performance.
@@ -24,7 +24,7 @@ Utilize ETL (Extract, Transform, Load) techniques to avoid putting strain on the
 
 Warehouse data separately for analysis to maintain data integrity and system performance.
 
-🔍 Key Features
+# 🔍 Key Features
 📈 Interactive visualizations highlighting sales trends, cost analysis, and production insights.
 
 🧠 Actionable insights derived from structured data analysis.
@@ -32,6 +32,17 @@ Warehouse data separately for analysis to maintain data integrity and system per
 🚀 Optimized queries and backend processes to ensure smooth user experience.
 
 🛠️ Fully decoupled data pipeline to ensure no disruption to existing company systems.
+
+# 🧠 Insights Unlocked
+Some of the major insights uncovered include:
+
+Identification of declining product lines.
+
+Analysis of regional performance and supply chain bottlenecks.
+
+Data-backed suggestions for operational optimization.
+
+Support for strategic decisions based on real trends and metrics.
 
 
 
